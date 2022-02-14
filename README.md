@@ -12,4 +12,4 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayankchaudhary26&theme=highcontrast&background=0F0943)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sahiljawale&theme=highcontrast&background=0F0943)](https://git.io/streak-stats)
