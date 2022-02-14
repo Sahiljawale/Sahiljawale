@@ -1,5 +1,6 @@
-### Hi there this is Sahil!👋
-
+<div align='center'>
+<h1> Hi there, I'm Sahil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=Sahiljawale&hide=contribs,prs)
 <!--
 **Sahiljawale/Sahiljawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
