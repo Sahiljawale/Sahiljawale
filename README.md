@@ -8,8 +8,6 @@
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sahiljawale&theme=highcontrast&background=0F0943)](https://git.io/streak-stats)
