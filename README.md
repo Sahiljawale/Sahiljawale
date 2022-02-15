@@ -1,9 +1,7 @@
 <div align='center'>
 <h1> Hi there, I'm Sahil! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-</div>
-<div align ='right'>  
-![](https://github-readme-stats.vercel.app/api?username=Sahiljawale&hide=contribs,prs) 
-</div>
+
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=Sahiljawale&hide=contribs,prs'>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sahiljawale&theme=highcontrast&background=0F0943)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Sahiljawale&color=blue&style=flat-square&label=Profile+visitors)
