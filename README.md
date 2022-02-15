@@ -7,8 +7,8 @@
 ###    Watch my contribution graph get eaten by the snake🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
-     
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
      
 
