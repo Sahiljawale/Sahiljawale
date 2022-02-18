@@ -4,7 +4,6 @@
 
 
 |<img src="https://github-readme-stats.vercel.app/api?username=Sahiljawale&show_icons=true"></img> |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sahiljawale"/>|
-|---|---|
  
  ---
  <h1>Technical Skills 🛠</h1>
